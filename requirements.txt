@@ -1,0 +1,4 @@
+pyspark==3.4.1  # Ensure compatibility with your Spark setup
+findspark==2.0.1
+pandas==2.0.3
+numpy==1.25.2
