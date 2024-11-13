@@ -11,6 +11,9 @@ Online reviews are crucial for helping customers decide on books, with platforms
 ## Problem statement
 To build a model that can predict the sentiment (positive, negative, neutral) of book reviews.
 
+## Download complete original datasets from Kaggle (Since its a huge dataset of size 2.8 gb, raw datasets not uploaded in this GitHub)
+https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews/data
+
 This dataset contains 2 files namely "reviews" and "book_details",
 
 The first file "reviews" file contain feedback about 3M user on 212404 unique books the data set is part of the Amazon review Dataset it contains product reviews and metadata from Amazon, including 142.8 million reviews spanning May 1996 - July 2014.
