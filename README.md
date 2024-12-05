@@ -50,4 +50,3 @@ infoLink	        |  link to get more information about the book on google books
 categories	      |  genres of books
 ratingsCount	    |  averaging rating for book
 
-Automating the sentiment analysis and providing concise summary of reviews can help customer,while predicting sales based on reviews can support authors and publishers in understanding a book's market performance
