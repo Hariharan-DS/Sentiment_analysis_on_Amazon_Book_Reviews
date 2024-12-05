@@ -9,7 +9,7 @@
 Online reviews are crucial for helping customers decide on books, with platforms like Amazon hosting millions of reviews. However, the overwhelming number of reviews makes it difficult for customers to assess the general sentiment and whether a book is worth purchasing.
 
 ## Problem statement
-To build a model that can predict the sentiment (positive, negative, neutral) of book reviews.
+To build a model that can predict the sentiment (positive, negative, neutral) and Automatic summarization of book reviews.
 
 #### Download complete original datasets from Kaggle (Since its a huge dataset of size 2.8 gb, raw datasets not uploaded in this GitHub)
 https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews/data
